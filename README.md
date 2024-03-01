@@ -1,8 +1,9 @@
 # Kotlin Calculator App
 
-## Alert: The application is under development. You may encounter some bugs while using it!
+## <span style="color:red">Alert:</span> The application is under development. You may encounter some bugs while using it!
 
 ## Welcome to the Kotlin Calculator App repository! This simple calculator app is designed to perform basic arithmetic operations. Feel free to explore the source code and make any improvements or modifications.
+
 
 ## Getting Started
 
