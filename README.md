@@ -63,7 +63,8 @@ Key methods in `MainActivity`:
 - `onEqual(view: View)`: Calculates the result of the expression.
 
 
-## You can also download apk: https://drive.google.com/file/d/1eSU6jxVuu8VsOkmKu5XTm-8UDtrCnkkn/view?usp=sharing
+### You can also download apk:
+https://drive.google.com/file/d/1eSU6jxVuu8VsOkmKu5XTm-8UDtrCnkkn/view?usp=sharing
 
 ## License
 
