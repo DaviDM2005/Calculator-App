@@ -17,6 +17,8 @@ These instructions will help you set up and run the calculator app on your local
 Make sure you have the following installed:
 
 - Android Studio
+https://developer.android.com/studio
+
 - Kotlin Plugin for Android Studio
 
 ### Installation
