@@ -1,5 +1,3 @@
-Certainly! Here's the updated README.md file with the MIT License text that you can copy:
-
 ```markdown
 # Kotlin Calculator App
 
