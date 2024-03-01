@@ -62,6 +62,9 @@ Key methods in `MainActivity`:
 - `onOperator(view: View)`: Appends the clicked operator to the input text.
 - `onEqual(view: View)`: Calculates the result of the expression.
 
+
+## You can also download apk: https://drive.google.com/file/d/1eSU6jxVuu8VsOkmKu5XTm-8UDtrCnkkn/view?usp=sharing
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
