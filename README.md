@@ -94,4 +94,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-Feel free to copy and use this in your README.md file. If you have any more requests or questions, let me know!
