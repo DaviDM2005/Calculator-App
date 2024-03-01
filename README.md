@@ -1,55 +1,88 @@
+Certainly! Here's the updated README.md file with the MIT License text that you can copy:
 
-Kotlin Calculator App
+```markdown
+# Kotlin Calculator App
+
 Welcome to the Kotlin Calculator App repository! This simple calculator app is designed to perform basic arithmetic operations. Feel free to explore the source code and make any improvements or modifications.
 
-Getting Started
+## Getting Started
+
 These instructions will help you set up and run the calculator app on your local machine.
 
-Prerequisites
+### Prerequisites
+
 Make sure you have the following installed:
 
-Android Studio
-Kotlin Plugin for Android Studio
-Installation
-Clone the repository to your local machine:
+- Android Studio
+- Kotlin Plugin for Android Studio
 
-bash
-Copy code
-git clone https://github.com/DaviDM2005/Calculator-App.git
-Open the project in Android Studio.
+### Installation
 
-Build and run the app on an Android emulator or a physical device.
+1. Clone the repository to your local machine:
 
-Features
-Addition, subtraction, multiplication, and division operations
-Decimal point support
-Clear button to reset the input
-Equal button to calculate the result
-Usage
-Launch the app on your Android device or emulator.
+   ```bash
+   git clone https://github.com/DaviDM2005/Calculator-App.git
+   ```
 
-Input numbers and perform operations using the provided buttons.
+2. Open the project in Android Studio.
 
-Press the equal button to see the result of the calculation.
+3. Build and run the app on an Android emulator or a physical device.
 
-Use the clear button to reset the input and start a new calculation.
+## Features
 
-Code Overview
-The main functionality of the app is implemented in the MainActivity class, which handles button clicks and performs arithmetic operations. The XML layout file (activity_main.xml) defines the user interface elements.
+- Addition, subtraction, multiplication, and division operations
+- Decimal point support
+- Clear button to reset the input
+- Equal button to calculate the result
 
-Key methods in MainActivity:
+## Usage
 
-onDigit(view: View): Appends the clicked digit to the input text.
-onClear(view: View): Clears the input text.
-onDecimalPoint(view: View): Appends a decimal point to the input text.
-onOperator(view: View): Appends the clicked operator to the input text.
-onEqual(view: View): Calculates the result of the expression.
-Customization
-Feel free to customize the app by making changes to the code, such as adjusting the UI layout or adding new features.
+1. Launch the app on your Android device or emulator.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+2. Input numbers and perform operations using the provided buttons.
 
-Acknowledgments
-The app layout uses a simple and clean design for easy usability.
-Thank you for checking out the Kotlin Calculator App! If you have any questions or suggestions, feel free to open an issue or contribute to the project.
+3. Press the equal button to see the result of the calculation.
+
+4. Use the clear button to reset the input and start a new calculation.
+
+## Code Overview
+
+The main functionality of the app is implemented in the `MainActivity` class, which handles button clicks and performs arithmetic operations. The XML layout file (`activity_main.xml`) defines the user interface elements.
+
+Key methods in `MainActivity`:
+
+- `onDigit(view: View)`: Appends the clicked digit to the input text.
+- `onClear(view: View)`: Clears the input text.
+- `onDecimalPoint(view: View)`: Appends a decimal point to the input text.
+- `onOperator(view: View)`: Appends the clicked operator to the input text.
+- `onEqual(view: View)`: Calculates the result of the expression.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**MIT License**
+
+```
+Copyright (c) 2024 Davit
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+Feel free to copy and use this in your README.md file. If you have any more requests or questions, let me know!
