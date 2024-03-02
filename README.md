@@ -64,7 +64,7 @@ Key methods in `MainActivity`:
 
 
 ### You can also download apk:
-https://drive.google.com/file/d/1eSU6jxVuu8VsOkmKu5XTm-8UDtrCnkkn/view?usp=sharing
+https://drive.google.com/file/d/1WgqHfkG41kUNla2mJZRldFS8Qqc_4VjD/view?usp=drive_link
 
 ## License
 
