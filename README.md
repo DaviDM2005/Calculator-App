@@ -96,7 +96,7 @@ SOFTWARE.
 
 #Screenshots
 
-![1](https://github.com/DaviDM2005/Calculator-App/assets/87268065/0cb53aa0-2b1e-416b-87e2-2fa1328dc2af)
+<img src="https://github.com/DaviDM2005/Calculator-App/assets/87268065/0cb53aa0-2b1e-416b-87e2-2fa1328dc2af" style="width: 200px;">
 ![2](https://github.com/DaviDM2005/Calculator-App/assets/87268065/0379a543-29be-4135-bfc1-e01221a35559)
 ![3](https://github.com/DaviDM2005/Calculator-App/assets/87268065/1d76bba9-5946-42d3-94eb-f260bce6c70f)
 ![4](https://github.com/DaviDM2005/Calculator-App/assets/87268065/2308a152-37a9-4461-8b05-e6c72e92ec5d)
